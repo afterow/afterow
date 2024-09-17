@@ -13,3 +13,5 @@ I am a personal developer who has been practicing for two and a half years
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afterow)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
