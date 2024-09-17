@@ -11,7 +11,11 @@ I am a personal developer who has been practicing for two and a half years
 - 😄 代词：
 - ⚡ 有趣的事实：...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afterow)](https://github.com/anuraghazra/github-readme-stats)
+🌟 **My Skills**  
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
