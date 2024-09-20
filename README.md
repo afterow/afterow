@@ -16,7 +16,7 @@ I am a personal developer who has been practicing for two and a half years
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afterow&show_icons=true)
 
 
 
