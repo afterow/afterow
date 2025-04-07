@@ -1,39 +1,32 @@
-## Hi 
+## Hi 👋 
 
-I am a personal developer who has been practicing for two and a half years
+主页访问次数<img src="https://profile-counter.glitch.me/afterow/count.svg" width="160" height="25" alt="访问统计">
 
-- 🔭 我现在正在做 唱🎤跳🕺rap🧑🏻‍🎤打篮球🏀
-- 🌱 我目前在学习 golang
+我是一名自学开发两年半的个人开发者...
+
+- 🔭 我正在...
+- 🌱 我目前在学习...
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
+![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff)
+
+
+
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=fff)
+
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afterow&show_icons=true)
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afterow)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://golang.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>
-</p>
 
 
